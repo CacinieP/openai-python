@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.6.1](https://github.com/openai/openai-python/compare/v3.6.0...v3.6.1) (2026-08-28)
+
+
+### Bug Fixes
+
+* avoid repeated numpy checks for embeddings ([#3757](https://github.com/openai/openai-python/issues/3757)) ([b19c216](https://github.com/openai/openai-python/commit/b19c2161b1eac80fbf1f6f67a64a50af99c53356))
+
 ## [3.6.0](https://github.com/openai/openai-python/compare/v3.5.0...v3.6.0) (2026-08-27)
 
 
